@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "171680776563",
+    "firebase_url": "https://academeg2-f4c16.firebaseio.com",
+    "project_id": "academeg2-f4c16",
+    "storage_bucket": "academeg2-f4c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171680776563:android:d783c45a68eee893",
+        "android_client_info": {
+          "package_name": "ru.novil.sergey.academegtruestories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171680776563-7u84u14lk3lh5o9e4qmito25e3gller8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.novil.sergey.academegtruestories",
+            "certificate_hash": "6FD7EDF18923FE6EA7B1ADD761A1295F97E334C8"
+          }
+        },
+        {
+          "client_id": "171680776563-71vlbdd756elstdk6qh1jm5u751k0cnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7bXeB4tSyjpgfhkFBp-E8r4NPF6R9Y1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171680776563-71vlbdd756elstdk6qh1jm5u751k0cnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

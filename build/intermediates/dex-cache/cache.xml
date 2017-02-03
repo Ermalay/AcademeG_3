@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_2cf8bdac83b1a6ba967eff03bd7c4c4b5e52c078\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3b23a0ce6235a5b230bd5a702899a2b9d64415e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_826542d9306ad4a4912e890788d04b71d03bfc18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_59c6f5abbe696fd6cc1b3c60b49bb9b732469fbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_72b50997a01acee579303bb3c82ed37f6caca27f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_70d7539ab27439303d7e74b7e67bf32337edfd2f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_706a1a9c7299670c69919500cb3a9696e4f4f77c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_b94c374b8e7daf806607b07e57a39034ad111c19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_b8930ab830605e949a8019b7c79d3c3aba0b15f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4aa41598d45e0a1b728f272de4682b8df07e5c03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c225820200b730b159dd9a8de71f302d5a8109bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_1a4ba504b20f4d5aab3cc0aab61dc0287296d9f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_a10869afe1ecebbb52b5551dde4c38355d4508e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_c911c3823a5a9ab45cea79000ee218f2ec9ef257.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a107c1e8b06b7ae83bc725ca26e7afa66022712c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_c66ac00f0dcd3d3f3a77077757708dcd554104e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c744aa08b3b9805e5cf75fcf39fd045723281d29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_58642904c5979744af5db072dfa461148b4c6eba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b611ccb311b196236d618d4911a41dce177d539d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_49cb3109a9b63157180bc0ad773a410d60495328\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_8371995a5165775d20c6923ad701846f8a17f076\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_80a50a007bc42b89d1dcd46b735f445f675b7cae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_81b582ee7efd0f0231f2e946275ccb788bb53f2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7c854af03266bb943454aa29db276801fe38ad04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_0ff0f4aac1541fd5b3d7e28177f908f6630e93fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_2bdf79626495b499bf889a20393f4347db6017fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_60186559297c6c11f9425e906bf05a90255a4d05.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_fdd3b762d461fa305fea9ecf9f9e1135508bf05c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a856e9111d7c96d0511063d52b7720defa66badb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\junit-4.12_08784c315bae77c93c4a6440b00341d81f48cace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_77fc46e494c98bbc33e058a18fb445d410eaf6b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_9b9f2f60060bd1e283fd163e3f558e75ea75d508\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_b0a29271616a3506fc7c9a8334d4bc92c3abdaa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_14dbb185b2679c49005e33d2302f70bfe93fbd82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_2cf8bdac83b1a6ba967eff03bd7c4c4b5e52c078.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_950c9f6da4e6a91307da5173f709e13bf3354e8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_919f30252390d7a676ec8ea4f5dd0232bb47a51c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_a9f0589914da8045728a19998f194b6bab90510c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e3e84a41b17c385c5590ab320f2c739907c2a71e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_173d199ee7c49e56e2b7621d9ef2f02dc0a465ff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_dab8cc777f8851f4006fe57f9af936e1b6dc025f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_e5e9a125db701f61e8943fc3fdfda2cdc34f4d75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_08784c315bae77c93c4a6440b00341d81f48cace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_44e8ffae962115081de998dee521af00eff77c3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_88daf76dc5c97a7c5cb3ca5b6f0a8b85ee772d8c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_eea65fd07976d0d20cb12a4d784dc9af8b2f989a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_8bdcb9543bec2466fdb008fd43f36d39b5ece13e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_259d953b811f4e5712224c2c140a0a25a1003e0d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ecabf84f3d2787a68ba9959ea59d9f1e907ed3f6">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_15bde5725676db9f9dd6006b035e6971de21fd50\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_7086b6a5d202e3717349dcdaab0b651f793d9b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_fb1d80007b0a0f0afc9d5f7391626b70874c5ee9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_bbbaf27f122ea9a102c96b030c5bb03b8a0fe484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_72b50997a01acee579303bb3c82ed37f6caca27f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a717741a5a6b7988239dd4698b42ad75fe7f424f">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_982d66fab8060bce156575ff265684197d1548df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_71a7c8f83e2e67fc468d6206e41be1c12ce1f440.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_401c759dd6c09b773f9accf6b25add650e51c255\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_46e6eac70c65c07aee5bc3159da12cfcd53b43f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\MailRuCloud\Android\MyApps\Release\AcademeG3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_61dfefcb7768d72874a578082e9b0d8ecc457194\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_68835e60c58dd27a1b18eab86082062dc218415a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\MailRuCloud\Android\samples\AcademeG2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ac52a2b3f9bdbe426abbb81a58aa7962a902c0b2.jar" />
+    </item>
+
+</items>

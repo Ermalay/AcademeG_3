@@ -1,0 +1,449 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="60dp">
+
+            <!-- Начало первого блока -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Опрос: Стоит ли Косте отрастить усы?"
+                        android:textSize="22dp"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/llAllVoices_01"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Всего голосов: "
+                        android:textSize="18dp"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"/>
+                    <TextView
+                        android:id="@+id/question_01"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:textSize="12dp"
+                        android:text="Подсчёт голосов..."
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:paddingLeft="5dp"/>
+                </LinearLayout>
+                <!-- Начало 1 блока вывода ответов -->
+                <LinearLayout
+                    android:id="@+id/llBlokAnswer_01"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Да, усы ему пойдут!"
+                            android:textSize="16dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="100">
+                        <ProgressBar
+                            android:id="@+id/progressBar_01"
+                            style="@android:style/Widget.ProgressBar.Horizontal"
+                            android:layout_height="15dip"
+                            android:layout_width="match_parent"
+                            android:indeterminate="false"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+                        <TextView
+                            android:id="@+id/tvViewAnswer_01"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="10dp"
+                            android:layout_gravity="center_vertical"
+                            android:textSize="18dp"
+                            android:layout_weight="80"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="10dp">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Нет, усы зло и рассадник насекомых!"
+                            android:textSize="16dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                        <ProgressBar
+                            android:id="@+id/progressBar_02"
+                            style="@android:style/Widget.ProgressBar.Horizontal"
+                            android:layout_height="15dip"
+                            android:layout_width="match_parent"
+                            android:indeterminate="false"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+                        <TextView
+                            android:id="@+id/tvViewAnswer_02"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="10dp"
+                            android:layout_gravity="center_vertical"
+                            android:textSize="18dp"
+                            android:layout_weight="80"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="10dp">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Борода! Вот, что ему нужно!"
+                            android:textSize="16dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                        <ProgressBar
+                            android:id="@+id/progressBar_03"
+                            style="@android:style/Widget.ProgressBar.Horizontal"
+                            android:layout_height="15dip"
+                            android:layout_width="match_parent"
+                            android:indeterminate="false"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+                        <TextView
+                            android:id="@+id/tvViewAnswer_03"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="10dp"
+                            android:layout_gravity="center_vertical"
+                            android:textSize="18dp"
+                            android:layout_weight="80" />
+                    </LinearLayout>
+                </LinearLayout>
+                <!-- Конец 1 блока вывода ответов -->
+                <!-- Начало 1 блока вывода вопросов -->
+                <LinearLayout
+                    android:id="@+id/llBlokQuestion_01"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="100">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Да, усы ему пойдут!"
+                            android:textSize="16dp"
+                            android:paddingRight="15dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+
+                        <RadioButton
+                            android:id="@+id/answer_01"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="100">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Нет, усы зло и рассадник насекомых!"
+                            android:textSize="16dp"
+                            android:paddingRight="15dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+                        <RadioButton
+                            android:id="@+id/answer_02"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="100">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Борода! Вот, что ему нужно!"
+                            android:textSize="16dp"
+                            android:paddingRight="15dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+                        <RadioButton
+                            android:id="@+id/answer_03"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <!-- Конец 1 блока вывода вопросов -->
+            </LinearLayout>
+            <!-- Конец первого блока -->
+            <!--
+
+            -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/holo_green_dark"
+                android:layout_margin="10dp"></LinearLayout>
+
+
+            <!-- Начало второго блока -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Опрос: Может, покрасить Понторезку в розовый?"
+                        android:textSize="22dp"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/llAllVoices_02"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Всего голосов: "
+                        android:textSize="18dp"
+                        android:paddingBottom="10dp"
+                        android:paddingTop="10dp"/>
+                    <TextView
+                        android:id="@+id/question_02_01"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:textSize="12dp"
+                        android:text="Подсчёт голосов..."
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:paddingLeft="5dp"/>
+                </LinearLayout>
+                <!-- Начало 2 блока вывода ответов -->
+                <LinearLayout
+                    android:id="@+id/llBlokAnswer_02"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Да. Розовый это гламурно, модно, молодёжно."
+                            android:textSize="16dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="100">
+                        <ProgressBar
+                            android:id="@+id/progressBar_02_01"
+                            style="@android:style/Widget.ProgressBar.Horizontal"
+                            android:layout_height="15dip"
+                            android:layout_width="match_parent"
+                            android:indeterminate="false"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+                        <TextView
+                            android:id="@+id/tvViewAnswer_02_01"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="10dp"
+                            android:layout_gravity="center_vertical"
+                            android:textSize="18dp"
+                            android:layout_weight="80"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Нет. Синяя плёнка это +100 к скорости."
+                            android:textSize="16dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                        <ProgressBar
+                            android:id="@+id/progressBar_02_02"
+                            style="@android:style/Widget.ProgressBar.Horizontal"
+                            android:layout_height="15dip"
+                            android:layout_width="match_parent"
+                            android:indeterminate="false"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+                        <TextView
+                            android:id="@+id/tvViewAnswer_02_02"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="10dp"
+                            android:layout_gravity="center_vertical"
+                            android:textSize="18dp"
+                            android:layout_weight="80"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Плёнку содрать, ни во что не красить! Ржавый скоро войдёт в моду."
+                            android:textSize="16dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                        <ProgressBar
+                            android:id="@+id/progressBar_02_03"
+                            style="@android:style/Widget.ProgressBar.Horizontal"
+                            android:layout_height="15dip"
+                            android:layout_width="match_parent"
+                            android:indeterminate="false"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+                        <TextView
+                            android:id="@+id/tvViewAnswer_02_03"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="10dp"
+                            android:layout_gravity="center_vertical"
+                            android:textSize="18dp"
+                            android:layout_weight="80"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <!-- Конец 2 блока вывода ответов -->
+                <!-- Начало 2 блока вывода вопросов -->
+                <LinearLayout
+                    android:id="@+id/llBlokQuestion_02"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="100">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Да. Розовый это гламурно, модно, молодёжно."
+                            android:textSize="16dp"
+                            android:paddingRight="15dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+
+                        <RadioButton
+                            android:id="@+id/answer_02_01"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="100">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Нет. Синяя плёнка это +100 к скорости."
+                            android:textSize="16dp"
+                            android:paddingRight="15dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+                        <RadioButton
+                            android:id="@+id/answer_02_02"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="100">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Плёнку содрать, ни во что не красить! Ржавый скоро войдёт в моду."
+                            android:textSize="16dp"
+                            android:paddingRight="15dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_weight="20"/>
+                        <RadioButton
+                            android:id="@+id/answer_02_03"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <!-- Конец 2 блока вывода вопросов -->
+            </LinearLayout>
+            <!-- Конец второго блока -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/holo_green_dark"
+                android:layout_margin="10dp"></LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

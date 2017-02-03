@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AcademeG</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="screen_one">Screen one</string>
+    <string name="page">Page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello FirstFragment</string>
+    <string name="title_activity_trash2">Trash2</string>
+    <string name="title_activity_trash3">Trash3</string>
+
+    <string name="title_activity_splash_screen_n">SplashScreenN</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
